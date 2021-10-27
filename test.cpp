@@ -30,7 +30,7 @@ void account_query::read_data()
     cin>>account_number;
     cout<<"Enter First Name: ";
     cin>>firstName;
-    cout<<"Enter Last Name: ";
+    cout<<"Enter Last Name: Kkkku";
     cin>>lastName;
     cout<<"Enter Balance: ";
     cin>>total_Balance;
